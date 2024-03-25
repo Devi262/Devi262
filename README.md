@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Data Engineer Intern**
 
-- 🌱 I’m currently learning **Panda, Numphy**
+- 🌱 I’m currently learning **Panda, NumPy**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
