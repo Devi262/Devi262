@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devi262&label=Profile%20views&color=0e75b6&style=flat" alt="devi262" /> </p>
 
-- 🔭 I’m currently working as a **Data Engineer Intern**
+- 🔭 I’m working as a **Data Engineer Intern**
 
 - 🌱 I’m currently learning **Panda, NumPy**
 
