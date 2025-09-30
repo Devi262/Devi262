@@ -7,19 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devi262&label=Profile%20views&color=0e75b6&style=flat" alt="devi262" /> </p>
 
-- 🔭 I’m working as a **Data Analyst**
-
-- 🌱 I’m currently learning **Machine learning Techniques**
+- 🔭 I’m working as a **SDE**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devi262/ (currently under development)](https://github.com/Devi262/ (currently under development))
 
-- 💬 Ask me about **Python , SQL, R, Microsoft Office 365, MySQL, Postgres, OracleDB, ETL pipelines, Big data, Salesforce**
-
 - 📫 How to reach me **connectwithdpb@gmail.com**
-
-- 📄 Know about my experiences [https://devipriyaresume.tiiny.site/](https://devipriyaresume.tiiny.site/)
 
 - ⚡ Fun fact **I think I am Funny**
   
